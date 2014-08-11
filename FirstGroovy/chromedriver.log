@@ -1,0 +1,39 @@
+[0.000][INFO]:      ChromeDriver 19.0.1068.0 C:\Kumar\Kumar\Kumar\Seleniumm\chromedriver_test\chromedriver_test\chrome-win32\chromedriver.exe
+[1.115][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.switches": [  ],
+   "chromeOptions": {
+      "args": [  ],
+      "extensions": [  ]
+   },
+   "platform": "ANY",
+   "version": ""
+}
+
+[1.115][INFO]:      Launching chrome: "C:\Kumar\Kumar\Kumar\Seleniumm\chromedriver_test\chromedriver_test\chrome-win32\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --ignore-certificate-errors --homepage=about:blank
+[2.072][INFO]:      Connected to Chrome successfully. Version: 18.0.1025.146
+[2.089][FINE]:      Command received (/session/46d3d5fabb778aa47f104629cf9db17b)
+[2.089][FINE]:      Command finished (/session/46d3d5fabb778aa47f104629cf9db17b) with response {
+   "sessionId": "46d3d5fabb778aa47f104629cf9db17b",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "19.0.1068.0",
+      "chrome.nativeEvents": false,
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "windows",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "18.0.1025.146",
+      "webStorageEnabled": false
+   }
+}
+
