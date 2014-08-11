@@ -50,7 +50,7 @@ public class NewTest {
 	  driver.manage().window().maximize();
 	  driver.get(baseUrl);
 	  driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);	  
-		  
+	  System.out.print("Test");	  
   }
 
   @AfterMethod
